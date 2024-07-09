@@ -25,19 +25,19 @@
 - Развитие Soft Skills
 
 ## Файлы в репозитории
-Все материалы и практические задания доступны в папке [практика](практика). Список файлов:
+Все материалы и практические задания доступны в папке [практика](Практика). Список файлов:
 
-1. [practice_linux.pdf](практика/practice_linux.pdf)
-2. [practice_git.pdf](практика/parctice_git.pdf)
-3. [practice_bash.pdf](практика/practice_bash.pdf)
-4. [practice_ssh.pdf](практика/practice_ssh.pdf)
-5. [practice_pytest.pdf](практика/practice_pytest.pdf)
-6. [practice_ci_cd.pdf](практика/practice_ci_cd.pdf)
-7. [practice_api.pdf](практика/practice_api.pdf)
-8. [practice_devops.pdf](практика/practice_devops.pdf)
-9. [practice_cybersec.pdf](практика/practice_cybersec.pdf)
-10. [practice_pentest.pdf](практика/practice_pentest.pdf)
-11. [practice_mlops.pdf](практика/practice_mlops.pdf)
+1. [practice_linux.pdf](Практика/1.practice_linux.pdf)
+2. [practice_git.pdf](Практика/2.parctice_git.pdf)
+3. [practice_bash.pdf](Практика/3.practice_bash.pdf)
+4. [practice_ssh.pdf](Практика/4.practice_ssh.pdf)
+5. [practice_pytest.pdf](Практика/5.practice_pytest.pdf)
+6. [practice_ci_cd.pdf](Практика/6.practice_ci_cd.pdf)
+7. [practice_api.pdf](Практика/7.practice_api.pdf)
+8. [practice_devops.pdf](Практика/8.practice_devops.pdf)
+9. [practice_cybersec.pdf](Практика/9.practice_cybersec.pdf)
+10. [practice_pentest.pdf](Практика/10.practice_pentest.pdf)
+11. [practice_mlops.pdf](Практика/11.practice_mlops.pdf)
 
 ## Контакты
 Для вопросов и дополнительной информации, пожалуйста, свяжитесь с [вашим именем/электронной почтой/контактной информацией].
